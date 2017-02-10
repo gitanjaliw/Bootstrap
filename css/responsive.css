@@ -1,0 +1,91 @@
+/*Responsive CSS by Gitanjali*/
+/*large desktop*/
+@media (min-width: 1200px) {
+    .container {
+        width: 1014px;
+    }
+}
+
+/*medium desktop*/
+@media screen and (min-width: 992px) {
+
+}
+
+/*tablet*/
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    #header .header-bg .col-sm-2 {
+        width: 11.666667%;
+
+    }
+
+    .port-detail .ser-title {
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        width: 100%;
+        text-align: center;
+        overflow: hidden;
+        font-size: 16px;
+    }
+
+    .port-detail .prod {
+        padding: 25px 0;
+    }
+
+    .page-container {
+        padding-top: 102px;
+    }
+
+}
+
+/*mobile*/
+@media screen and (max-width: 767px) {
+    .port-footer img {
+        width: 16%;
+    }
+
+    .port-footer {
+        text-align: center;
+    }
+
+    .header-logo img {
+        width: 24%;
+    }
+
+    .title {
+        margin-bottom: 0;
+    }
+
+    .port-detail .prod {
+        padding: 12px 12px;
+    }
+
+    .page-container {
+        padding-top: 140px;
+    }
+
+    #header .header-bg .logo-wrapper {
+        text-align: center;
+        border-bottom: 1px solid #eee;
+        padding-bottom: 11px;
+    }
+
+    #header .header-bg #headerText {
+        font-size: 19px;
+        padding: 0;
+        margin: 13px 0px 17px;
+        text-align: center;
+        line-height: 1.5;
+    }
+
+    .header .header-bg {
+        border-bottom: 0 none;
+    }
+}
+
+@media screen and (min-width: 767px) {
+
+}
+
+@media screen and (max-width: 320px) {
+
+}

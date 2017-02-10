@@ -1,0 +1,145 @@
+/*Custom CSS by Gitanjali*/
+
+/*header css*/
+#header {
+    overflow: auto;
+    padding: 0 15px;
+    position: fixed;
+    background-color: white;
+    z-index: 100;
+}
+
+.header {
+    width: 100%;
+
+}
+.header-logo {
+    margin-top: 0;
+}
+
+.header-logo img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.header .header-bg {
+    background-color: #fff;
+    z-index: 20;
+    border-bottom: 1px solid #dddddd;
+}
+
+#header .header-bg .logo-wrapper {
+    margin-top: 8px;
+    padding-bottom: 10px;
+}
+
+#header .header-bg .logo-wrapper .col-md-1 {
+
+}
+
+#header .header-bg #headerText {
+    display: inline-block;
+    font-size: 21px;
+    margin: 21px 0 20px;
+    font-family: 'brownlight', Arial, Helvetica, sans-serif;
+    padding: 0;
+}
+
+#header .header-bg #headerText span {
+    font-family: 'brownregular', Arial, Helvetica, sans-serif;
+}
+
+/*page container**/
+.page-container {
+    padding-top: 68px;
+
+}
+
+/*banner*/
+.banner {
+    padding: 62px 0;
+    background-image: url("../img/header-img.png");
+    background-position: 50% 50%;
+    background-size: cover;
+}
+
+/*skills*/
+.skills {
+    background-color: #f5f3ec;
+    padding: 18px;
+}
+
+.port-detail .prod {
+    padding: 33px 0 40px;
+}
+
+.port-detail .prod img {
+    width: 52%;
+
+}
+
+.port-detail .prod p {
+    padding: 0 15px;
+
+}
+
+.port-detail .ser-title {
+    font-family: 'brownregular', Arial, Helvetica, sans-serif;
+    margin: 20px 0;
+}
+
+.port-detail a.pro-link img {
+    max-width: 100%;
+    height: auto;
+}
+
+/*Experience*/
+
+.experience .exp {
+    border-bottom: 1px solid #dddddd;
+    padding: 18px 0;
+    margin-top: 30px;
+}
+
+/*interest*/
+.interest .int {
+    padding-bottom: 15px;
+}
+
+.interest .int h2 {
+    margin: 20px 0;
+}
+
+/*footer*/
+.port-footer {
+    padding: 12px 0;
+    border-top: 1px solid #929292;
+}
+
+.port-footer .bottomText {
+    padding: 20px 0;
+}
+
+.port-footer img {
+    max-width: 100%;
+    padding-bottom: 20px;
+}
+
+.mob-banner-text {
+    font-family: 'brownbold', Arial, Helvetica, sans-serif;
+}
+
+.progress-bar {
+    background-color: #ff6c5a;
+}
+
+.wrap-con {
+    padding: 30px 0;
+    border-bottom: 1px solid #f4f4f4;
+}
+
+.int img {
+    width: 52%;
+    margin-bottom: 15px;
+}
+
