@@ -57,7 +57,7 @@
 
 /*banner*/
 .banner {
-    padding: 62px 0;
+    padding: 40px 0;
     background-image: url("../img/header-img.png");
     background-position: 50% 50%;
     background-size: cover;
@@ -102,6 +102,12 @@
 }
 
 /*interest*/
+.interest{ background-color: #f1f1f1;}
+.port-detail .int {
+}
+.interest .port-detail .int img{
+    width: 100%;
+}
 .interest .int {
     padding-bottom: 15px;
 }
