@@ -130,7 +130,16 @@
     max-width: 100%;
     padding-bottom: 20px;
 }
-
+.port-footer .bottomText{
+    float: left;
+}
+.port-footer .getintouch{
+    float: right;
+    margin-top: 20px;
+}
+.port-footer .getintouch ul li .fa{
+    font-size: 20px;
+}
 .mob-banner-text {
     font-family: 'brownbold', Arial, Helvetica, sans-serif;
 }
